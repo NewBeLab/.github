@@ -1,6 +1,14 @@
 # NewBeLab-Vue
 ![vue](https://img.shields.io/badge/Vue-v3.2.36-brightgreen)  
 [バックエンド](https://github.com/nyohoo/NewBeLab-Rails)
+
+## 開発メンバー
+[eityamo](https://github.com/orgs/NewBeLab/people/eityamo)
+[isakashiori](https://github.com/orgs/NewBeLab/people/isakashiori)
+[Mariko222](https://github.com/Mariko222)
+[yoiyoicho](https://github.com/yoiyoicho)
+[nyohoo](https://github.com/nyohoo)
+
 ## サービス概要  
 チーム開発に興味を持つ未経験エンジニアに   
 チームメンバーとマッチングする機会を与える  
