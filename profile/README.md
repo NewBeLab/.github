@@ -1,6 +1,6 @@
-# NewBeLab-Vue
-![vue](https://img.shields.io/badge/Vue-v3.2.36-brightgreen)  
-[バックエンド](https://github.com/nyohoo/NewBeLab-Rails)
+# NewBeLab
+[フロントエンド](https://github.com/NewBeLab/NewBeLab-Vue)  
+[バックエンド](https://github.com/NewBeLab/NewBeLab-Rails)
 
 ## 開発メンバー
 [eityamo](https://github.com/orgs/NewBeLab/people/eityamo)  
